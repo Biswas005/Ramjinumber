@@ -1,4 +1,4 @@
-//module to have sum of factorials function in rust
+//module to have sum of factorials function in rust using memoization
 use std::collections::HashMap;
 use crate::factorial::factorial;
 
