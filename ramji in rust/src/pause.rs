@@ -1,4 +1,4 @@
-// cmd_pause.rs
+// command promt pause.rs
 
 use std::process::Command;
 
